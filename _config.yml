@@ -27,3 +27,7 @@ github_username:  torch2424
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Serve settings
+host: 0.0.0.0
+port: 4000
