@@ -13,6 +13,7 @@ layout: default
 * [Testbuild.aaronthedev.com](https://testbuild.aaronthedev.com/) - Randoom builds I FTP to test
 
 # Helpful Dev Tools
+* [CI And Deployment with TravisCI](https://neemzy.org/articles/deploy-to-your-own-server-through-ssh-with-travis-ci)
 * [Ubuntu Pastebin](http://paste.ubuntu.com/) - Simple Lightweight Pastebin
 * [Glot.io](https://glot.io/) - Shareable, Runnable, Testable code snippets
 * [JSONLint](http://jsonlint.com/) - JSON validator
