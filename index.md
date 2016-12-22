@@ -28,13 +28,15 @@ layout: default
 * [Pramp](https://www.pramp.com/) - Practice coding interviews
 * [Dinahmoelabs](http://dinahmoelabs.com/theme) - Craziness with webaudio
 * [Meme Shirts: Thatshirtwascash](http://thatshirtwascash.com/) - nuff said
+* [Initial server setup checklist](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
+* Secure your Pis and webservers using [fail2ban](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04) and [changing your SSH port](http://www.linuxlookup.com/howto/change_default_ssh_port)
 
 
 ### Helpful Raspberry Pi Tools / Links
 * [PiBakery](http://www.pibakery.org/) - Customizable Raspbian images.
 * Lakka
 * Recalbox
-* Retropie
+* Retropie 
 
 ### Great Dev Youtube Videos
 [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ) - Awesome Tips to speed up development.
