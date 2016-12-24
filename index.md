@@ -32,6 +32,11 @@ layout: default
 * Secure your Pis and webservers using [fail2ban](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04) and [changing your SSH port](http://www.linuxlookup.com/howto/change_default_ssh_port)
 * [Apache Config (.htaccess, virtual hosts, etc..) to Nginx](http://nginx.org/en/docs/http/converting_rewrite_rules.html)
 
+### Favorite Self Hosted Tools
+* Password Protected MongoDB web interface - [adminMongo](http://adminmongo.com/)
+* Simple/Easy File Hosting/Storage - [droppy](https://github.com/silverwind/droppy)
+* Super Fast And Easy Git Server - [Gogs](https://www.digitalocean.com/community/tutorials/how-to-set-up-gogs-on-ubuntu-14-04)
+
 
 ### Helpful Raspberry Pi Tools / Links
 * [PiBakery](http://www.pibakery.org/) - Customizable Raspbian images.
