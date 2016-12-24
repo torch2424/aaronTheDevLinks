@@ -30,7 +30,7 @@ layout: default
 * [Meme Shirts: Thatshirtwascash](http://thatshirtwascash.com/) - nuff said
 * [Initial server setup checklist](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
 * Secure your Pis and webservers using [fail2ban](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04) and [changing your SSH port](http://www.linuxlookup.com/howto/change_default_ssh_port)
-* [Apache Config (.htaccess, virtual hosts, etc..) to Nginx](https://winginx.com/en/htaccess)
+* [Apache Config (.htaccess, virtual hosts, etc..) to Nginx](http://nginx.org/en/docs/http/converting_rewrite_rules.html)
 
 
 ### Helpful Raspberry Pi Tools / Links
