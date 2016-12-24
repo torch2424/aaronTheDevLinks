@@ -38,10 +38,11 @@ layout: default
 * Lakka
 * Recalbox
 * Retropie 
+* [Music for Retropie menu](https://retropie.org.uk/forum/topic/347/background-music-continued-from-help-support/3)
 
 ### Great Dev Youtube Videos
-[Totally Tooling Tips](https://www.youtube.com/playlist?list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ) - Awesome Tips to speed up development.
-[Learn Go In One Video](https://www.youtube.com/watch?v=CF9S4QZuV30) - Watched this while working at Amazon, literally, you will have a good base in go after watching this one hour video.
+* [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ) - Awesome Tips to speed up development.
+* [Learn Go In One Video](https://www.youtube.com/watch?v=CF9S4QZuV30) - Watched this while working at Amazon, literally, you will have a good base in go after watching this one hour video.
 
 ## Other Fun Things to do
 * http://mailinator.blogspot.com/2008/01/your-own-private-mailinator.html
